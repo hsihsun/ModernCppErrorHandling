@@ -7,4 +7,4 @@ cmake ..
 cmake --build .
 ctest --output-on-failure
 
-The code is wriiten under MacOS enviroment. 
+The code is wriiten under MacOS environment. 
